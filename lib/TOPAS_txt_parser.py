@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+import os
 import re
 from .duplicate import duplicates
 parser_pattern = re.compile(
